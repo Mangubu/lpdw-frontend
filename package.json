@@ -1,0 +1,22 @@
+{
+  "name": "lpdw-frontend",
+  "version": "1.0.0",
+  "description": "Toto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangubu/lpdw-frontend.git"
+  },
+  "keywords": [
+    "toto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangubu/lpdw-frontend/issues"
+  },
+  "homepage": "https://github.com/Mangubu/lpdw-frontend#readme"
+}
