@@ -1,3 +1,6 @@
 [submodule "pebie-server"]
 	path = pebie-server
 	url = https://github.com/pebie/pebie-server.git
+[submodule "pebie-webpack"]
+	path = pebie-webpack
+	url = https://github.com/pebie/pebie-webpack.git
